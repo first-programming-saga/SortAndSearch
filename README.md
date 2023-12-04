@@ -1,2 +1,5 @@
-# SortAndSearch
-Sort and Search
+# 整列と探索
+- `sort.ipynb`
+    - 泡立ち法、クイックソート、マージソート
+- `search.ipynb`
+    - 線形探索、二分探索、探索用に二分木
